@@ -87,14 +87,6 @@ Prometheus + Grafana + Node Exporter
 
 ---
 
-## 📊 GitHub Statistics
-
-![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rojergohn\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojergohn\&layout=compact\&theme=github_dark)
-
----
-
 ## 🎯 Current Learning Goals
 
 * Terraform
